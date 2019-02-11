@@ -1,0 +1,12 @@
+{
+  "name": "persnr-fix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "package": "pkg persnr-fixer.js --targets node10-win-x64"
+  },
+  "dependencies": {
+    "inquirer": "6.2.2"
+  }
+}
